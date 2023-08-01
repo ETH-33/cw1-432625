@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sU8Qvgwb)
 # BookStore:
 A responsive website that displays available books in the store, along with their details.Website provides options such as browsing books based on categories or authors, searching the required book, viewing full description page of any book. It is also possible to sort the listing based on price or discount. User can register and login on subsequent accesses, view his/her cart, buy desired books. In case of any problem user can ask query which is directly sent as a mail to admin.
 
